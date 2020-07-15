@@ -7,6 +7,10 @@ public class HelloGidHub {
 
 		
 		System.out.println("Hello Java");
+		
+		// comment
+		// this my class
+		
 	}
 
 }
